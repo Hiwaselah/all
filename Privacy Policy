@@ -1,0 +1,40 @@
+
+Privacy Policy Guidance 
+
+  
+
+• On this page 
+
+• Why we require a privacy policy 
+
+• What a basic privacy policy should say 
+
+• Where to host your privacy policy 
+
+• Use Google Sites for a Privacy Policy 
+
+The Policies for Actions on Google require all Actions to post a link to their privacy policy in the Directory. This guide explains Google's minimum expectations of what your privacy policy should include. It doesn't, however, address all possible use cases or issues. Your privacy policy, along with any in-Action disclosures, should comprehensively and accurately disclose all of your privacy practices. Your Action and privacy policy must also comply with all applicable laws and regulations, so you may need to include additional or different information based on the laws and regulations applicable to you or your Action. 
+
+Why we require a privacy policy 
+
+Privacy disclosures — made via a privacy policy and in-Action conversations — help users understand what data you collect, why you collect it, and what you do with it. The disclosures should be comprehensive, accurate, and easy to understand by users. Users will have an opportunity to review the policy when they browse actions in the Directory, and we encourage developers to make it available on their website and other convenient places. 
+
+What a basic privacy policy should say 
+
+At a minimum, your privacy policy should answer the three questions below. You can also consider addressing additional topics, such as your information security practices, how users can change or delete their data, and how long you retain users' data. 
+
+Note: Your privacy policy must be attributable to your Actions project. Make sure your privacy policy includes your project's name. 
+
+Remember, your policy needs to accurately describe your specific Action, so not everything in this guide may be applicable and you may need to disclose practices not described here. If you handle information outside of the Google Assistant, such as through an app or website, your policy should consider all the ways the user could interact with your service and disclose the collection, use, and sharing for those interactions. 
+
+• What information do you collect? 
+
+In your policy you should disclose all the information your Action collects. This includes information that you may collect automatically, such as server and HTTP logs, data transmitted by the Actions on Google API to you, and usage information. This also includes information that you get from the user, either directly or via the permissions API. You should also disclose whether you collect any persistent identifiers (like the Google ID). 
+
+• How do you use the information? 
+
+In your policy, you should disclose how you use the information you collect. For example, you may use the information to provide certains services to users, to recognize them the next time they use your Action, or to send them promotional emails. 
+
+• What information do you share? 
+
+In your policy, you should disclose the circumstances when you share information. For example, you may share information with third parties as part of the service (like a restaurant reservation Action), with other users (like a social network or forum), with marketing partners, or with service providers that assist with your service (like hosting companies or technology platforms).
